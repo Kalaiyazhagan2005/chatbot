@@ -1,1 +1,37 @@
+hi
+Hello! How can I help you?
+hello
+Hi there!
+thank you
+You're welcome!
+bye
+Goodbye! Have a great day!
+who are you
+I'm KalaiBot, your intelligent assistant built by Kalai!
+what is AI
+AI stands for Artificial Intelligence. It allows machines to mimic human intelligence.
+what is machine learning
+Machine learning is a subset of AI that enables computers to learn from data.
+what is deep learning
+Deep learning is a neural network-based technique for learning from large amounts of data.
+what is a neural network
+A neural network is a series of algorithms that mimic the operations of a human brain.
+explain transformers in NLP
+Transformers are attention-based models used to process sequences like language.
+what is gradient descent
+Gradient descent is an optimization algorithm used to minimize loss in machine learning models.
+what is overfitting
+Overfitting happens when a model learns the training data too well and performs poorly on new data.
+what is underfitting
+Underfitting occurs when a model is too simple to learn the underlying pattern of the data.
+how does dropout help
+Dropout prevents overfitting by randomly turning off some neurons during training.
+who created you
+Kalai built me using Transformers and Machine Learning!
+can you help with python
+Yes, I can assist you with Python programming.
+what is an API
+An API is a set of rules that allows one software to interact with another.
+how are you
+I'm doing great, Kalai! How can I assist you today?
 
